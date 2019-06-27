@@ -1,3 +1,4 @@
 source 'https://gemini.atl.appfolio.net' do
-  gem 'activesupport'
+  gem 'activesupport', '~> 5.2'
+  gem 'ae_page_objects', '~> 4.2'
 end
