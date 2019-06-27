@@ -1,0 +1,3 @@
+source 'https://gemini.atl.appfolio.net' do
+  gem 'activesupport'
+end
