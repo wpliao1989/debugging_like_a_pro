@@ -1,7 +1,7 @@
 # require 'objspace'
 # ObjectSpace.trace_object_allocations_start
 
-# I’m calling something, but I don’t know where it goes
+# I need to find where this object came from
 
 def level_1
   arg = 'hello'
