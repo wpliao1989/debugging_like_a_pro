@@ -12,3 +12,9 @@ puts([1, 2, 3, 4].to(2))
 
 # Exercise: Sometimes in a controller, we'll see a "current_user" method.
 # Can you figure out where it is defined?
+
+#####################################################################
+# Try it yourself
+#####################################################################
+
+# Figure out where `nil.blank?` method is implemented
