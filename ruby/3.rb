@@ -1,6 +1,9 @@
+#####################################################################
+# I’m calling a method, but I don’t know where it goes
+#####################################################################
+
 require 'active_support/all'
 
-# I’m calling a method, but I don’t know where it goes
 
 puts([1, 2, 3, 4].to(2))
 

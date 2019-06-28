@@ -1,7 +1,10 @@
+#####################################################################
+# I need to find where this object came from
+#####################################################################
+
 # require 'objspace'
 # ObjectSpace.trace_object_allocations_start
 
-# I need to find where this object came from
 
 def level_1
   arg = 'hello'

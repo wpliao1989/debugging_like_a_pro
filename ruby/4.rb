@@ -1,6 +1,9 @@
+#####################################################################
+# I’m calling super, but I don’t know where it goes
+#####################################################################
+
 require 'active_support/all'
 
-# I’m calling super, but I don’t know where it goes
 
 num = BigDecimal('10.0')
 
