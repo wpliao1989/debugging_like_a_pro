@@ -1,3 +1,4 @@
+require 'bundler/setup'
 require 'ae_page_objects'
 
 Capybara.app = Proc.new do |env|

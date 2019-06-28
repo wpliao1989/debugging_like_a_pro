@@ -2,6 +2,7 @@
 # I want to see what methods this object has
 #####################################################################
 
+require 'bundler/setup'
 require 'active_support/all'
 
 

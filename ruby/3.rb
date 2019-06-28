@@ -2,6 +2,7 @@
 # I’m calling a method, but I don’t know where it goes
 #####################################################################
 
+require 'bundler/setup'
 require 'active_support/all'
 
 
