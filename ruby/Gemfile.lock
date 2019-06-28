@@ -1,5 +1,5 @@
 GEM
-  remote: https://gemini.atl.appfolio.net/
+  remote: https://rubygems.org/
   specs:
     activesupport (5.2.3)
       concurrent-ruby (~> 1.0, >= 1.0.2)
